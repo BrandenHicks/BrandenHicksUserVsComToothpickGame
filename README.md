@@ -4,4 +4,4 @@ Instructions:
 1. gcc toothpickGame.c -o toothpick_game
 2. ./toothpick_game
 
-The game will start off with displaying the rules mentioned above. Once the user makes an input the computer will make its turn. The game will continue until the last toothpick is pulled, then the program will announce the loser of the game. 
+The game will start off with displaying the rules mentioned above. Once the user makes an input the computer will make its turn. The game will continue until the last toothpick is pulled, then the program will announce the loser of the game. This game will last a total of 3 rounds. 
